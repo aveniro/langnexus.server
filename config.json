@@ -1,0 +1,5 @@
+{
+    "port": 3000,
+    "langnexusPath": "/var/www/langnexus.io",
+    "sysadmin": "nathan@seymour.global"
+}
